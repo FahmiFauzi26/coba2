@@ -35,7 +35,7 @@ public class adshg {
 
             // Tampilkan hasil perhitungannya -> mean, median dan modus
             System.out.println("\nHasil Perhitunganssssssss:");
-            System.out.println("\nHasil Perhitungan:");
+
             System.out.printf("- Mean\t\t= %.1f%n", mean(data));
             System.out.printf("- Median\t= %.1f%n", median(data));
             System.out.printf("- Modus\t\t= %s%n", modus(data, input));
